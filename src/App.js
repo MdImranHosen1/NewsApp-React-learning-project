@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import Navbar from './component/Navbar'
 import News from './component/News'
-import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 
